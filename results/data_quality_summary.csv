@@ -1,0 +1,12 @@
+measure,value
+sales_rows,30490
+sales_columns,1919
+daily_sales_observations,1913
+total_sales_cells,58327370
+missing_sales_cells,0
+negative_sales_cells,0
+zero_sales_cells,39777094
+duplicate_product_store_combinations,0
+invalid_calendar_dates,0
+duplicate_calendar_dates,0
+duplicate_calendar_day_identifiers,0
